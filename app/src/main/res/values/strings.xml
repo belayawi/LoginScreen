@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginActivity</string>
+    <string name="sign_in_to">""</string>
+    <string name="sign_in">Sign in</string>
+    <string name="button">Forgot Password?</string>
+    <string name="keep_me_signed_i_details">Keep me signed i. Details</string>
+    <string name="show_password">Show Password</string>
+    <string name="sign_in_to_amazon">Sign in</string>
+    <string name="_1996_2017_amazon_com_inc_or_its_affiliates">© 1996-2017, Amazon.com, inc, or its affiliates</string>
+    <string name="coinditions_of_use_privacy_notice">Coinditions of Use Privacy Notice</string>
+    <string name="create_a_new_amazon_account">Create a new Amazon Account</string>
+    <string name="new_to_amazon">New to Amazon?</string>
+    <string name="amazon_password">Amazon password</string>
+    <string name="email_phone_for_mobile_accounts">Email(phone for mobile accounts)</string>
+</resources>
